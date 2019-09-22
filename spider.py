@@ -1,4 +1,15 @@
 
+    
+＃ my_first_spide
+
+＃实验室第一个任务
+
+＃完成时间2019/9/20
+＃对数据的处理分析
+
+
+
+
 # import  csv
 import time
 
